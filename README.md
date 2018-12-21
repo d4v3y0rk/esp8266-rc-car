@@ -14,3 +14,5 @@ The wemos and the l293d are on a breadboard and wired up based on the pinout in 
 [Instructable I started from](https://www.instructables.com/id/ESP8266-Wifi-Controlled-Robot/)
 
 [Datasheet for the L293D IC](http://www.ti.com/lit/ds/symlink/l293d.pdf)
+
+[Another project I learned about the Blynk code](https://www.hackster.io/igorF2/wi-fi-controlled-robot-using-wemos-d1-esp8266-and-blynk-464198)
